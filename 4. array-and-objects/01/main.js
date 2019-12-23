@@ -2,7 +2,7 @@ var myPenguin = {
     name:"Alfred",
     origin:"Zig et Puce" ,
     author:"Alain Saint-Ogan",
-    favoriteFoods :["Alfred", "Zig et Puce", "Alain Saint-Ogan"],
+    favoriteFoods :["Alfred", "Zig ret Puce", "Alain Saint-Ogan"],
 }
 console.log(myPenguin.favoriteFoods[1]);
 
